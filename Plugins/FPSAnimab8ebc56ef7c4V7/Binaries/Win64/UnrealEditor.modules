@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"ProceduralConverter": "UnrealEditor-ProceduralConverter.dll",
+		"RecoilAnimation": "UnrealEditor-RecoilAnimation.dll"
+	}
+}
